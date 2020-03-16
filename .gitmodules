@@ -1,0 +1,9 @@
+[submodule "wireguard-go"]
+	path = wireguard-go
+	url = git://git.zx2c4.com/wireguard-go
+[submodule "wireguard-windows"]
+	path = wireguard-windows
+	url = git://git.zx2c4.com/wireguard-windows
+[submodule "wintun"]
+	path = wintun
+	url = https://git.zx2c4.com/wintun
